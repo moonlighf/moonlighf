@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/moonlighf/moonlighf/blob/master/resource/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png">
+  <img src="https://github.com/moonlighf/moonlighf/blob/master/resource/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" width = "300" height = "200">
 </p>
 
 .
