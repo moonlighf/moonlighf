@@ -9,6 +9,9 @@
 
 :heart: Programming | :black_heart: Anime | :blue_heart: Games
 
+👀 Male| 25 Years Old | Wuhan Hubei
+
+
 I am a Common Student at Wuhan University. I love Coding and trying to find more about **Big Data and Crawler**. 
 
 - 🔭 I’m currently working on **Data scraping and Big data processing** using Python and Spark.
@@ -42,10 +45,10 @@ I am a Common Student at Wuhan University. I love Coding and trying to find more
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Python      21 hrs 12 mins        ███████████░░░░░░░░░░░░░░   38.89 
-Scala       17 hrs 00 mins        ████████░░░░░░░░░░░░░░░░░   31.48 
-Java        8  hrs 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 
-Go          7  hrs 00 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62 
+Python      21 hrs 12 mins        ███████████░░░░░░░░░░░░░░   38.89% 
+Scala       17 hrs 00 mins        ████████░░░░░░░░░░░░░░░░░   31.48%
+Java        8  hrs 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01%
+Go          7  hrs 00 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.62%
 
 ```
 
