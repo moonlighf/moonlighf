@@ -23,14 +23,16 @@ I am a Common Student at Wuhan University. I love Coding and trying to find more
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+#### 🏆  How about some stats ?
     
+
 
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonlighf&hide=["stars"]&show_icons=true)
 
 ----
 
 #### 👀  How about Active Repo ?
+
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=moonlighf&repo=AlgorithmWithLeetCode)](https://github.com/moonlighf/AlgorithmWithLeetCode)
@@ -44,9 +46,6 @@ Python      4 hrs 32 mins       █████████░░░░░░░
 Java        2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
 Scala       1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
 Go          1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
-
-
-
 
 ```
 
