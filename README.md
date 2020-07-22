@@ -13,7 +13,7 @@ I am a Common Student at Wuhan University. I love Coding and trying to find more
 
 - 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Python.
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
