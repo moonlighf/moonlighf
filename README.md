@@ -5,7 +5,7 @@
 .
 
 
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello World !  <img src="https://github.com/moonlighf/moonlighf/blob/master/resource/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" width="24px">
 
 :heart: Programming | :black_heart: Anime | :blue_heart: Games
 
@@ -24,7 +24,7 @@ I am a Common Student at Wuhan University. I love Coding and trying to find more
 ----
 
 #### 🏆  How about some stats ?
-    
+
 
 
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonlighf&hide=["stars"]&show_icons=true)
